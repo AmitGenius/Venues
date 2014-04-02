@@ -504,7 +504,7 @@ h4{font-size:25px;font-weight:bold}
 
 
 
-.banner-search-wrap{position:absolute;z-index:1;height:200px;top:41%;left:5%;right:8%}
+.banner-search-wrap{position:absolute;z-index:1;height:200px;top:41%;left:5%;right:0%}
 
 .banner-search-wrap h2{font-size:38px;color:#fff; text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.55);;text-align:center;margin:.5em 0;font-weight:900}
 
@@ -574,7 +574,7 @@ box-shadow: 0px 3px 5px 0px rgba(50, 50, 50);text-shadow:1px 1px #999;height:50p
 
 
 
-.tab-image-wrap { margin:0 0 0 30px;cursor:pointer }
+.tab-image-wrap { margin:0 0 0 42px;cursor:pointer }
 
 .tabs-inner-right { width:172px; height:201px; float:right; font-family: 'robotoregular'; padding:1em 0 0 1em;}
 
@@ -1170,7 +1170,7 @@ top: 2px;}
 
 
 
-.listing-filter-main{background:#f9f9f3;margin:0;height:auto;padding:10px 0px;min-height:200px;border-right:1px solid #ccc; overflow:auto; min-width:0px !important; }
+.listing-filter-main{background:#f9f9f3;margin:0;height:auto;padding:10px 0px;min-height:200px;border-right:1px solid #ccc; overflow:auto; min-width:250px !important; }
 
 .listing-map{margin:0;padding:0;background:#000 url(../images/map.jpg);padding:10px 5px;min-height:650px;height:100%}
 
